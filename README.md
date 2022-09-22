@@ -1,1 +1,1 @@
-# PhoneBook task 4 - refactored on hooks
+# PhoneBook task 6 - refactored on redux toolkit
